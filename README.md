@@ -3,6 +3,8 @@ touch
 
 Touch command for windows command line create any file with any extension
 
+(equivilent to linux touch)
+
 don't forget to edit the path variable to the touch.exe directory
 
 function expects touch <string filename>
