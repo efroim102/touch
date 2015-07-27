@@ -8,7 +8,7 @@ Touch command for windows command line create any file with any extension
 =====
 Installation
 =====
-download the exe and store it where ever you want, don't forget to add it to the PATH.
+download the exe and store it wherever you want, don't forget to add it to the PATH.
 
 =====
 Usage
