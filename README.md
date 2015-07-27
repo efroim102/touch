@@ -5,9 +5,15 @@ Touch command for windows command line create any file with any extension
 
 (equivilent to linux touch)
 
-don't forget to add it to the PATH.
+=====
+Installation
+=====
+download the exe and store it where ever you want, don't forget to add it to the PATH.
 
-function expects touch <string filename>
+=====
+Usage
+=====
+In a windows command line enter >touch file.file and hit enter.
 
 if filename has spaces use quotes for the filename.
 
