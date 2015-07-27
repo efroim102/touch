@@ -20,3 +20,8 @@ if filename has spaces use quotes for the filename.
 touch only creates one file at a time.
 
 touch does not create directories.
+
+=====
+Warning!
+=====
+touch will override existing files with the same file name!
